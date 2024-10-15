@@ -1,0 +1,7 @@
+// 1.21	2024-09-20T13:55:07.1470092	Lootr Example Mod Block Tags
+da446a96fde61a67fb9f77783966a5d1de443a8b data/c/tags/block/chests/wooden.json
+da446a96fde61a67fb9f77783966a5d1de443a8b data/lootr/tags/block/cats_can_block.json
+da446a96fde61a67fb9f77783966a5d1de443a8b data/lootr/tags/block/chests.json
+da446a96fde61a67fb9f77783966a5d1de443a8b data/lootr/tags/block/convert/blacklist.json
+da446a96fde61a67fb9f77783966a5d1de443a8b data/minecraft/tags/block/guarded_by_piglins.json
+da446a96fde61a67fb9f77783966a5d1de443a8b data/minecraft/tags/block/mineable/axe.json

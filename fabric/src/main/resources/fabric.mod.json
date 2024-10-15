@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "lootrexamplemod",
+  "version": "${version}",
+  "name": "Lootr Example Mod",
+  "description": "An example add-on mod optionally using Lootr.",
+  "authors": [
+    "Noobanidus"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/lootr-fabric",
+    "sources": "https://github.com/LootrMinecraft/LootrExampleMod/tree/arch-1.21",
+    "issues": "https://github.com/LootrMinecraft/LootrExampleMod/issues"
+  },
+  "license": "MIT License",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "noobanidus.mods.lootrexamplemod.fabric.LootrExampleMod"
+    ],
+    "client": [
+      "noobanidus.mods.lootrexamplemod.fabric.LootrExampleModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric": "*",
+    "minecraft": "~1.21",
+    "java": ">=21"
+  }
+}

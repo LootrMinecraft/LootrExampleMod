@@ -1,0 +1,21 @@
+modLoader="javafml" 
+loaderVersion="[2,)"
+issueTrackerURL="https://github.com/LootrMinecraft/LootrExampleMod/issues"
+license="https://github.com/LootrMinecraft/LootrExampleMod/blob/arch-1.21/LICENSE"
+[[mods]]
+    modId="lootrexamplemod"
+    version="${version}"
+    displayName="Lootr Example Mod"
+    displayURL="https://minecraft.curseforge.com/projects/lootr-example-mod"
+    authors="Noobanidus"
+    description="An example add-on for Lootr."
+
+[[dependencies.lootrexamplemod]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21,)"
+
+[[dependencies.lootrexamplemod]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21,)"

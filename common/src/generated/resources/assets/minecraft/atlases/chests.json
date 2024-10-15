@@ -1,0 +1,16 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "lootrexamplemod:lootr_chest"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "lootrexamplemod:lootr_chest_opened"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "lootrexamplemod:chest"
+    }
+  ]
+}
